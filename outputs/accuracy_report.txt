@@ -1,0 +1,20 @@
+Disease Prediction Model Report
+
+Algorithm Used:
+Random Forest
+
+Accuracy:
+95%
+
+Features:
+Age
+Gender
+Blood Pressure
+Cholesterol
+BMI
+Glucose
+Heart Rate
+Smoking
+
+Conclusion:
+The model predicts disease risk successfully.

@@ -10,7 +10,7 @@ df = pd.read_csv("outputs/cleaned_data.csv")
 # Features (Input)
 X = df.drop("Disease", axis=1)
 
-# Target (Output)
+# Target (output)
 y = df["Disease"]
 
 # Split data into training and testing

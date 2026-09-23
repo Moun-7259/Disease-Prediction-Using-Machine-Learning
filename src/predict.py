@@ -1,7 +1,7 @@
 import joblib
 import pandas as pd
 
-# Load trained model
+# Load train model
 model = joblib.load("models/disease_model.pkl")
 
 # New patient data

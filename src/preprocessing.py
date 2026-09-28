@@ -6,7 +6,7 @@ df = pd.read_csv("dataset/disease_data.csv")
 # Display first 5 rows
 print(df.head())
 
-# Check missing values
+# checking missing values
 print("\nMissing Values:")
 print(df.isnull().sum())
 
